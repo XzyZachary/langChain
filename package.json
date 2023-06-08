@@ -1,0 +1,22 @@
+{
+  "name": "langchain",
+  "version": "1.0.0",
+  "description": "langchain learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XzyZachary/langChain.git"
+  },
+  "author": "zachary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XzyZachary/langChain/issues"
+  },
+  "dependencies": {
+    "langchain": "0.0.92"
+  },
+  "homepage": "https://github.com/XzyZachary/langChain#readme"
+}
